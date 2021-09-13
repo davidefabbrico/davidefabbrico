@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @davidefabbrico
-- 👀 I’m interested in BioStatistics and Actuarial Science
+- 👀 I’m interested in Bayesian Statistic
 - 🌱 I’m currently learning Advanced Statistical models
