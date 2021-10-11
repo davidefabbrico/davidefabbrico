@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @davidefabbrico
-- 👀 I’m interested in Bayesian Statistic
+- 👀 I’m interested in Bayesian Graphical Models
 - 🌱 I’m currently learning Social Network Analisys
