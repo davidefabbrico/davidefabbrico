@@ -1,3 +1,3 @@
 - 👋  Hi, I’m @davidefabbrico
 - 👀  I’m interested in Bayesian Graphical Models
-- 🌱  I’m currently learning Statistics for Spatial Data
+- 🌱  I’m currently learning Bayesian Data Analysis, Causal Inference and Biostatistics
