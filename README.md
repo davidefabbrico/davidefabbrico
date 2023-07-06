@@ -1,3 +1,3 @@
 - 👋  Hi, I’m @davidefabbrico
-- 👀  I’m interested in Bayesian Variable selection and "Flexible" regression models
+- 👀  I’m interested in Bayesian Variable selection and Semiparametric regression models
 - 🌱  I’m currently working on Bayesian Semi-Parametric varying coefficient as non linear interaction models
